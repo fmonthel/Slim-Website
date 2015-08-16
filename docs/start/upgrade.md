@@ -2,7 +2,7 @@
 title: Upgrade Guide
 ---
 
-If you are upgrading from version 2 to version 3, these are the signifcant changes tha
+If you are upgrading from version 2 to version 3, these are the signifcant changes that
 you need to be aware of.
 
 
